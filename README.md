@@ -1,4 +1,4 @@
-# Firebase Codelab: Use FCM and FIAM to send messages to users
+# Use FCM and FIAM to send messages to users
 
 This is the source code for the "Use FCM and FIAM to send messages to users".
 
