@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003399616520",
+    "project_id": "fcmandfiam-61978",
+    "storage_bucket": "fcmandfiam-61978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003399616520:android:8834eb827c8ebb3fb019bd",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.fcmandfiam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003399616520-orbm1j4v25kl4lqoehmdsj9403487aqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkev7v-D5-X_cCXSd0sfbbJbECPYG7_QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003399616520-orbm1j4v25kl4lqoehmdsj9403487aqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
